@@ -36,11 +36,11 @@ py -m pip freeze > requirements.txt
 
 ## Data Set Utilized
 [exercise.csv](https://github.com/mwaskom/seaborn-data/blob/master/exercise.csv)
-    - id
-    - diet
-    - pulse
-    - time
-    - kind
+ - id
+ - diet
+ - pulse
+ - time
+ - kind
 
 ## Git Add and Commit
 ``` shell
