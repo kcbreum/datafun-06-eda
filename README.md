@@ -42,6 +42,7 @@ py -m pip freeze > requirements.txt
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+import numpy as np
 ```
 
 ## Git Add and Commit
