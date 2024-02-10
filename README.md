@@ -51,3 +51,6 @@ git add .
 git commit -m "update message goes here"
 git push origin main
 ```
+
+## Credentials
+This project was guided by Denise Case as part of a project for the MS in Data Analytics degree at Northwest Missouri State University. Additionally, AI was utilized to complete this project.
