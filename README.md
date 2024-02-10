@@ -36,11 +36,15 @@ py -m pip freeze > requirements.txt
 
 ## Data Set Utilized
 [exercise.csv](https://github.com/mwaskom/seaborn-data/blob/master/exercise.csv)
- - id
- - diet
- - pulse
- - time
- - kind
+df = sns.load_dataset('iris')
+print(df.head())
+
+## Dependencies Imported
+``` shell
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+```
 
 ## Git Add and Commit
 ``` shell
