@@ -1,4 +1,4 @@
-# datafun-06-eda
+# Project 6 - EDA Notebook
 
 ## Project Description
 This project is meant to show the ability to create an exploratory data analysis project using GitHub, Git, Jupyter, pandas, Seaborn, and other popular data anlytics tols. These tools will be used to pusblish a custom EDA project that tells a data story and visually present findings in a clear and engaging manner.
